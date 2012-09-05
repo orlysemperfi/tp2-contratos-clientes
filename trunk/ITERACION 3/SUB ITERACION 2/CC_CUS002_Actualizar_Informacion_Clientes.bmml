@@ -1,6 +1,6 @@
 <mockup version="1.0" skin="sketch" measuredW="1366" measuredH="881">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="23" y="445" w="632" h="426" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="29" y="445" w="632" h="426" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Gesti%F3n%20de%20Contratos%20Clientes</text>
       </controlProperties>
@@ -100,18 +100,19 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="21" controlTypeID="com.balsamiq.mockups::RadioButton" x="460" y="757" w="62" h="17" measuredW="61" measuredH="18" zOrder="20" locked="false" isInGroup="-1">
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::RadioButton" x="460" y="757" w="69" h="16" measuredW="69" measuredH="18" zOrder="20" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Activo</text>
+        <text>Vigente</text>
         <state>selected</state>
       </controlProperties>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::RadioButton" x="537" y="756" w="103" h="17" measuredW="73" measuredH="18" zOrder="21" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::RadioButton" x="537" y="755" w="96" h="18" measuredW="91" measuredH="18" zOrder="21" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Inactivo</text>
+        <text>No%20Vigente</text>
+        <state>disabled</state>
       </controlProperties>
     </control>
-    <control controlID="23" controlTypeID="com.balsamiq.mockups::FieldSet" x="446" y="733" w="194" h="51" measuredW="200" measuredH="170" zOrder="22" locked="false" isInGroup="-1">
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::FieldSet" x="446" y="735" w="194" h="51" measuredW="200" measuredH="170" zOrder="22" locked="true" isInGroup="-1">
       <controlProperties>
         <text>Estado%20de%20Cliente</text>
       </controlProperties>
@@ -207,18 +208,18 @@
         <text>Cancelar</text>
       </controlProperties>
     </control>
-    <control controlID="42" controlTypeID="com.balsamiq.mockups::RadioButton" x="1140" y="735" w="62" h="17" measuredW="61" measuredH="18" zOrder="41" locked="false" isInGroup="-1">
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::RadioButton" x="1140" y="735" w="77" h="17" measuredW="69" measuredH="18" zOrder="41" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Activo</text>
+        <text>Vigente</text>
         <state>selected</state>
       </controlProperties>
     </control>
-    <control controlID="43" controlTypeID="com.balsamiq.mockups::RadioButton" x="1217" y="735" w="103" h="17" measuredW="73" measuredH="18" zOrder="42" locked="false" isInGroup="-1">
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::RadioButton" x="1217" y="735" w="103" h="17" measuredW="91" measuredH="18" zOrder="42" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>Inactivo</text>
+        <text>No%20Vigente</text>
       </controlProperties>
     </control>
-    <control controlID="44" controlTypeID="com.balsamiq.mockups::FieldSet" x="1126" y="717" w="194" h="51" measuredW="200" measuredH="170" zOrder="43" locked="false" isInGroup="-1">
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::FieldSet" x="1126" y="716" w="194" h="51" measuredW="200" measuredH="170" zOrder="43" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Estado%20de%20Cliente</text>
       </controlProperties>
