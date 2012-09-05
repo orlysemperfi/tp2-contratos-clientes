@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" measuredW="1366" measuredH="881">
+<mockup version="1.0" skin="sketch" measuredW="1351" measuredH="881">
   <controls>
     <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="29" y="445" w="632" h="426" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -132,7 +132,7 @@
         <text>Cancelar</text>
       </controlProperties>
     </control>
-    <control controlID="27" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="691" y="445" w="665" h="426" measuredW="450" measuredH="400" zOrder="26" locked="false" isInGroup="-1">
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="691" y="445" w="650" h="426" measuredW="450" measuredH="400" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Gesti%F3n%20de%20Contratos%20Clientes</text>
       </controlProperties>
