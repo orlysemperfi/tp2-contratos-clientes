@@ -1,0 +1,75 @@
+<mockup version="1.0" skin="sketch" measuredW="653" measuredH="520">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="28" y="25" w="615" h="485" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Gesti%F3n%20de%20Contratos%20de%20Clientes%0Ahttps%3A//intranet.tmd.pe</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="56" y="133" w="-1" h="-1" measuredW="113" measuredH="25" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Descripci%F3n%20Corta</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="56" y="165" w="-1" h="-1" measuredW="115" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Descripci%F3n%20Larga</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Label" x="56" y="239" w="-1" h="-1" measuredW="69" measuredH="25" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Encargado</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="56" y="275" w="42" h="25" measuredW="42" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Fecha</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Canvas" x="219" y="165" w="283" h="70" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="219" y="132" w="-1" h="-1" measuredW="79" measuredH="29" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::TextInput" x="219" y="237" w="146" h="-1" measuredW="79" measuredH="29" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TextInput" x="219" y="271" w="-1" h="-1" measuredW="79" measuredH="29" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::DataGrid" x="54" y="310" w="-1" h="-1" measuredW="572" measuredH="118" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Clausula%2C%20Descripci%E1n%20Larga%2C%20Encargado%2C%20Fecha%20Reg.%0ACD001%2C%20Buena%20Pro%20v%E1lida%2C%20Juan%20Perez%2C%2002/10/2011%2C%20%5BActualizar%5D%2C%20%5BEliminar%5D%0ACD002%2C%20Adelanto%20mensual%2C%20Carlos%20Ramos%2C%2001/05.2012%2C%20%5BActualizar%5D%2C%20%5BEliminar%5D%0ACD003%2C%20Validaci%F3n%20de%20Servicio%2C%20Ana%20Arce%2C%2015/08/2011%2C%5BActualizar%5D%2C%20%5BEliminar%5D</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="219" y="104" w="-1" h="-1" measuredW="237" measuredH="25" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Mantenimiento%20de%20Clausulas%20Definidas</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Button" x="234" y="443" w="101" h="-1" measuredW="63" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Nuevo</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Button" x="344" y="443" w="91" h="-1" measuredW="75" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Guardar</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="441" y="443" w="-1" h="-1" measuredW="90" measuredH="28" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Actualizar</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Button" x="540" y="443" w="88" h="-1" measuredW="66" measuredH="28" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Buscar</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
