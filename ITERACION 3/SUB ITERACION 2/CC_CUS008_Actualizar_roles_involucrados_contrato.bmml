@@ -45,7 +45,7 @@
         <text>Cancelar</text>
       </controlProperties>
     </control>
-    <control controlID="16" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="29" y="12" w="576" h="387" measuredW="450" measuredH="400" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="29" y="12" w="626" h="413" measuredW="450" measuredH="400" zOrder="9" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Roles%20involucrados%20del%20Contrato</text>
       </controlProperties>
@@ -60,7 +60,7 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="51" y="128" w="-1" h="-1" measuredW="40" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Label" x="51" y="130" w="-1" h="-1" measuredW="40" measuredH="22" zOrder="12" locked="false" isInGroup="-1">
       <controlProperties>
         <text>FecIni</text>
       </controlProperties>
@@ -135,6 +135,21 @@
     <control controlID="54" controlTypeID="com.balsamiq.mockups::TextInput" x="150" y="689" w="267" h="-1" measuredW="79" measuredH="29" zOrder="26" locked="false" isInGroup="-1">
       <controlProperties>
         <text/>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="254" y="128" w="-1" h="-1" measuredW="45" measuredH="22" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FecFin</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::DateChooser" x="150" y="126" w="-1" h="-1" measuredW="88" measuredH="26" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::DateChooser" x="314" y="128" w="-1" h="-1" measuredW="88" measuredH="26" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%20/%20%20/%20%20%20%20</text>
       </controlProperties>
     </control>
   </controls>
