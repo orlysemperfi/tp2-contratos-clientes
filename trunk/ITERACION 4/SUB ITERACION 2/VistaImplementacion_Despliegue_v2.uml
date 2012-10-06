@@ -2162,11 +2162,10 @@
 <XPD:ATTR name="#Associations" type="integer">2</XPD:ATTR>
 <XPD:REF name="Associations[0]">MYBLHlM4kE6/J9bl1aOivAAA</XPD:REF>
 <XPD:REF name="Associations[1]">TO+LW2DPGEqIa60JtejHYgAA</XPD:REF>
-<XPD:ATTR name="#DeployedComponents" type="integer">4</XPD:ATTR>
+<XPD:ATTR name="#DeployedComponents" type="integer">3</XPD:ATTR>
 <XPD:REF name="DeployedComponents[0]">meqYZAPEbEig+YRoap0inwAA</XPD:REF>
-<XPD:REF name="DeployedComponents[1]">T6d4EtOEi0Cd5tEc1KwWhgAA</XPD:REF>
-<XPD:REF name="DeployedComponents[2]">QUq7pqm3MU6Qblig6FsuhQAA</XPD:REF>
-<XPD:REF name="DeployedComponents[3]">o6NsWNzFlEaOc68HqM+Q7wAA</XPD:REF>
+<XPD:REF name="DeployedComponents[1]">QUq7pqm3MU6Qblig6FsuhQAA</XPD:REF>
+<XPD:REF name="DeployedComponents[2]">o6NsWNzFlEaOc68HqM+Q7wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[6]" type="UMLAssociation" guid="ZX/t82TCZEep7FeM0d0v6QAA">
 <XPD:ATTR name="Name" type="string">tcp-ip</XPD:ATTR>
@@ -2251,8 +2250,6 @@
 <XPD:OBJ name="OwnedElements[12]" type="UMLComponent" guid="T6d4EtOEi0Cd5tEc1KwWhgAA">
 <XPD:ATTR name="Name" type="string">NHibernate</XPD:ATTR>
 <XPD:REF name="Namespace">LO8d6Urpk0eslIO64hq9jAAA</XPD:REF>
-<XPD:ATTR name="#DeploymentLocations" type="integer">1</XPD:ATTR>
-<XPD:REF name="DeploymentLocations[0]">dOKLMDqk3kam9+JNJAtBHAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[13]" type="UMLComponent" guid="QUq7pqm3MU6Qblig6FsuhQAA">
 <XPD:ATTR name="Name" type="string">ADO .Net</XPD:ATTR>
