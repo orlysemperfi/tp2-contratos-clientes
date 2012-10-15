@@ -1,0 +1,117 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "00.Librerias", "00.Librerias", "{5F3F2A65-7283-4813-9287-41AAB17B8D85}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01.Modelado", "01.Modelado", "{E3A0451B-FE8E-46A7-B452-E9BA79AD781B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.Comun", "02.Comun", "{96EEEEB8-8B78-492A-93A0-0FFA0AF43F09}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.CapaDatos", "03.CapaDatos", "{22E407F3-29D7-4B6F-A827-85EDF94C0629}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.CapaNegocio", "04.CapaNegocio", "{33E42EF0-8105-4D3F-A20C-552BD6C3FBCE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.CapaPresentacion", "05.CapaPresentacion", "{34A6167D-6FA2-48B1-BFFF-4FCD43F5EAA0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.Test", "06.Test", "{747829D9-CDBF-4A65-8537-3A31C47C64E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AjaxControlToolkit", "AjaxControlToolkit", "{F7628DB9-5575-44A8-9A6B-7158CCDD33D1}"
+	ProjectSection(SolutionItems) = preProject
+		Librerias\AjaxControlToolkit.dll = Librerias\AjaxControlToolkit.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "EnterpriseLibrary", "EnterpriseLibrary", "{30CD7DB8-B68C-48CB-AAFE-CC032DCB311B}"
+	ProjectSection(SolutionItems) = preProject
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Caching.Cryptography.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Caching.Database.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Caching.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Common.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Common.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Data.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Data.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.Logging.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Logging.Database.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Logging.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Security.Cache.CachingStore.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Security.Cryptography.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Security.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Security.dll
+		Librerias\Microsoft.Practices.EnterpriseLibrary.Validation.dll = Librerias\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+		Librerias\Microsoft.Practices.ServiceLocation.dll = Librerias\Microsoft.Practices.ServiceLocation.dll
+		Librerias\Microsoft.Practices.Unity.Configuration.dll = Librerias\Microsoft.Practices.Unity.Configuration.dll
+		Librerias\Microsoft.Practices.Unity.dll = Librerias\Microsoft.Practices.Unity.dll
+		Librerias\Microsoft.Practices.Unity.Interception.dll = Librerias\Microsoft.Practices.Unity.Interception.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Mock", "Mock", "{CA458895-0E55-4764-B2BA-E955AFF4054C}"
+	ProjectSection(SolutionItems) = preProject
+		Librerias\Rhino.Mocks.dll = Librerias\Rhino.Mocks.dll
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReportViewer", "ReportViewer", "{4AD970B9-1F42-4769-B149-DB1CA5AE5956}"
+	ProjectSection(SolutionItems) = preProject
+		Librerias\Microsoft.ReportViewer.Common.dll = Librerias\Microsoft.ReportViewer.Common.dll
+		Librerias\Microsoft.ReportViewer.WebForms.dll = Librerias\Microsoft.ReportViewer.WebForms.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMD.CC.AccesoDatos", "TMD.ContratoClientes.AccesoDatos\TMD.CC.AccesoDatos.csproj", "{F8618931-42A0-4881-A286-258E840D2252}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMD.CC.Entidades", "TMD.ContratoClientes.Entidades\TMD.CC.Entidades.csproj", "{38B52398-8505-4D49-BEF3-442AC0DC5D45}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMD.CC.LogicaNegocios", "TMD.ContratoClientes.LogicaNegocios\TMD.CC.LogicaNegocios.csproj", "{4B0F0EA0-F4EB-4EEE-B0F4-BC5CD62A7A31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMD.CC.Site", "TMD.ContratoClientes.Site\TMD.CC.Site.csproj", "{1AEECEB0-F5A3-4D2D-90B1-9C87D0F4526C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMD.CC.AccesoDatos.Test", "TMD.CC.AccesoDatos.Test\TMD.CC.AccesoDatos.Test.csproj", "{EBF3957D-0677-436C-87AB-B2169A647B43}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6A262087-4B5A-4B10-BB6C-62CEF766DF0A}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		TMD.ContratoClientes.vsmdi = TMD.ContratoClientes.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = TMD.ContratoClientes.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8618931-42A0-4881-A286-258E840D2252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8618931-42A0-4881-A286-258E840D2252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8618931-42A0-4881-A286-258E840D2252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8618931-42A0-4881-A286-258E840D2252}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B52398-8505-4D49-BEF3-442AC0DC5D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B52398-8505-4D49-BEF3-442AC0DC5D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B52398-8505-4D49-BEF3-442AC0DC5D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B52398-8505-4D49-BEF3-442AC0DC5D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0F0EA0-F4EB-4EEE-B0F4-BC5CD62A7A31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0F0EA0-F4EB-4EEE-B0F4-BC5CD62A7A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0F0EA0-F4EB-4EEE-B0F4-BC5CD62A7A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0F0EA0-F4EB-4EEE-B0F4-BC5CD62A7A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AEECEB0-F5A3-4D2D-90B1-9C87D0F4526C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEECEB0-F5A3-4D2D-90B1-9C87D0F4526C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEECEB0-F5A3-4D2D-90B1-9C87D0F4526C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEECEB0-F5A3-4D2D-90B1-9C87D0F4526C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBF3957D-0677-436C-87AB-B2169A647B43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBF3957D-0677-436C-87AB-B2169A647B43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBF3957D-0677-436C-87AB-B2169A647B43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBF3957D-0677-436C-87AB-B2169A647B43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F7628DB9-5575-44A8-9A6B-7158CCDD33D1} = {5F3F2A65-7283-4813-9287-41AAB17B8D85}
+		{30CD7DB8-B68C-48CB-AAFE-CC032DCB311B} = {5F3F2A65-7283-4813-9287-41AAB17B8D85}
+		{CA458895-0E55-4764-B2BA-E955AFF4054C} = {5F3F2A65-7283-4813-9287-41AAB17B8D85}
+		{4AD970B9-1F42-4769-B149-DB1CA5AE5956} = {5F3F2A65-7283-4813-9287-41AAB17B8D85}
+		{F8618931-42A0-4881-A286-258E840D2252} = {22E407F3-29D7-4B6F-A827-85EDF94C0629}
+		{38B52398-8505-4D49-BEF3-442AC0DC5D45} = {33E42EF0-8105-4D3F-A20C-552BD6C3FBCE}
+		{4B0F0EA0-F4EB-4EEE-B0F4-BC5CD62A7A31} = {33E42EF0-8105-4D3F-A20C-552BD6C3FBCE}
+		{1AEECEB0-F5A3-4D2D-90B1-9C87D0F4526C} = {34A6167D-6FA2-48B1-BFFF-4FCD43F5EAA0}
+		{EBF3957D-0677-436C-87AB-B2169A647B43} = {747829D9-CDBF-4A65-8537-3A31C47C64E9}
+		{6A262087-4B5A-4B10-BB6C-62CEF766DF0A} = {747829D9-CDBF-4A65-8537-3A31C47C64E9}
+	EndGlobalSection
+EndGlobal

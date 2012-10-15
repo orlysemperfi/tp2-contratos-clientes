@@ -1,0 +1,5 @@
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Entidades\bin\Debug\TMD.CC.Entidades.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Entidades\bin\Debug\TMD.CC.Entidades.pdb
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Entidades\obj\Debug\ResolveAssemblyReference.cache
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Entidades\obj\Debug\TMD.CC.Entidades.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Entidades\obj\Debug\TMD.CC.Entidades.pdb

@@ -1,0 +1,5 @@
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.CC.AccesoDatos.Test\bin\Debug\TMD.CCAccesoDatos.Test.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.CC.AccesoDatos.Test\bin\Debug\TMD.CCAccesoDatos.Test.pdb
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.CC.AccesoDatos.Test\obj\Debug\ResolveAssemblyReference.cache
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.CC.AccesoDatos.Test\obj\Debug\TMD.CCAccesoDatos.Test.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.CC.AccesoDatos.Test\obj\Debug\TMD.CCAccesoDatos.Test.pdb
