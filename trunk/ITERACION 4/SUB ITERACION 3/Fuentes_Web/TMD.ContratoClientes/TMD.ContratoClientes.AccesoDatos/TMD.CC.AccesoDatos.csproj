@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F8618931-42A0-4881-A286-258E840D2252}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>TMD.CC.AccesoDatos</RootNamespace>
+    <AssemblyName>TMD.CC.AccesoDatos</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Common">
+      <HintPath>..\Librerias\Microsoft.Practices.EnterpriseLibrary.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.EnterpriseLibrary.Data">
+      <HintPath>..\Librerias\Microsoft.Practices.EnterpriseLibrary.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Practices.Unity">
+      <HintPath>..\Librerias\Microsoft.Practices.Unity.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Contrato\IRolData.cs" />
+    <Compile Include="Contrato\IContratoData.cs" />
+    <Compile Include="Contrato\IEntregableData.cs" />
+    <Compile Include="Contrato\IIndicadorData.cs" />
+    <Compile Include="Contrato\IPenalidadData.cs" />
+    <Compile Include="Contrato\IClausulaData.cs" />
+    <Compile Include="Contrato\IServicioData.cs" />
+    <Compile Include="Contrato\ISolicitudData.cs" />
+    <Compile Include="Core\DataBase.cs" />
+    <Compile Include="Implementacion\ClausulaData.cs" />
+    <Compile Include="Implementacion\ContratoData.cs" />
+    <Compile Include="Implementacion\RolData.cs" />
+    <Compile Include="Implementacion\EntregableData.cs" />
+    <Compile Include="Implementacion\IndicadorData.cs" />
+    <Compile Include="Implementacion\PenalidadData.cs" />
+    <Compile Include="Implementacion\ServicioData.cs" />
+    <Compile Include="Implementacion\SolicitudData.cs" />
+    <Compile Include="Map\ClausulaDataMap.cs" />
+    <Compile Include="Map\ContratoDataMap.cs" />
+    <Compile Include="Map\RolDataMap.cs" />
+    <Compile Include="Map\EntregableDataMap.cs" />
+    <Compile Include="Map\IndicadorDataMap.cs" />
+    <Compile Include="Map\PenalidadDataMap.cs" />
+    <Compile Include="Map\ServicioDataMap.cs" />
+    <Compile Include="Map\SolicitudDataMap.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Util\DataReaderExtensions.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TMD.ContratoClientes.Entidades\TMD.CC.Entidades.csproj">
+      <Project>{38B52398-8505-4D49-BEF3-442AC0DC5D45}</Project>
+      <Name>TMD.CC.Entidades</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

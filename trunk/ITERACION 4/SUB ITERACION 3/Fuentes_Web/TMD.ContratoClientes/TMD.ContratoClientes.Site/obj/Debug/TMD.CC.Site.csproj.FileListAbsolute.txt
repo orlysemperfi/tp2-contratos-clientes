@@ -1,0 +1,16 @@
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\TMD.CC.Site.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\TMD.CC.Site.pdb
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\obj\Debug\ResolveAssemblyReference.cache
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\obj\Debug\TMD.CC.Site.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\obj\Debug\TMD.CC.Site.pdb
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\TMD.CC.LogicaNegocios.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\TMD.CC.Entidades.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\TMD.CC.AccesoDatos.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\Microsoft.Practices.ServiceLocation.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\Microsoft.Practices.Unity.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\Microsoft.Practices.Unity.Interception.dll
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\TMD.CC.LogicaNegocios.pdb
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\TMD.CC.Entidades.pdb
+D:\UPC\2012-02\TP2\TMD.ContratoClientes\TMD.ContratoClientes\TMD.ContratoClientes.Site\bin\TMD.CC.AccesoDatos.pdb
